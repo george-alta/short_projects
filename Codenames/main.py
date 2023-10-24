@@ -13,3 +13,5 @@ while True:
     guess = input("select a word: ")
     board.reveal_word(guess)
     board.display_board
+
+# TODO game dynamics
